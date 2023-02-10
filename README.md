@@ -1,0 +1,1 @@
+# beauty-components-checker
